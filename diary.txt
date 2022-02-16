@@ -1,0 +1,14 @@
+Strategy:
+
+Overall: Recreate my full-stack web app from Hackbright and make it fit the requirements of the take-home.
+- Set up a virtual environment (done 2/15/2022)
+- Install Flask in virtual environment (pip3 install flask - done 2/5/2022)
+- Make gitignore (done)
+- Make a Flask app at server.py
+    - Set up the skeleton
+    - Install dependencies (in progress)
+- Figure out the routes?
+- Figure out the data model? Do I need a database?
+- Do I need sessions? 
+- Do I need a front end?
+
